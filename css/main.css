@@ -65,22 +65,21 @@ footer {
 
   #column-1 {
     background-color:rgb(96, 59, 0);
-    width: 33.3%;
+    
   }
 
   #column-2 {
     background-color:rgb(29, 0, 214);
-    width: 33.3%;
   }
 
   #column-3 {
     background-color:#55c812;
-    width: 33.4%;
+   width: 100%;
   }
 
   footer {
     background-color:rgb(255, 60, 216);
-    width: 100%;
+  
   }
   
 }
@@ -95,21 +94,23 @@ footer {
 
   #column-1 {
     background-color: rgb(31, 97, 172);
-    width: 33.3%;
+
   }
 
   #column-2 {
     background-color: rgb(172, 31, 170);
-    width: 33.3%;
+
   }
 
   #column-3 {
     background-color: rgb(196, 135, 13);
-    width: 33.4%;
+    width: 33.3%;
   }
 
   footer {
     background-color: rgb(249, 14, 14);
   }
-   
+     .col-3 {
+      width: 33.3%;
 }
+  
